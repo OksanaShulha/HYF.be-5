@@ -50,6 +50,6 @@ Our goal is to build a website [HYF](https://hackyourfuture.be/) together. It's 
 
 ## Screenshots
 
-Screenshot of Home Page from the original website:
-<img src="https://user-images.githubusercontent.com/73791189/107987478-6433e200-6fce-11eb-97be-f583782ade59.png" width="400">
+Screenshot of Home Page from the original website: [hackyourfuture.be](https://hackyourfuture.be/)
+<img src="https://user-images.githubusercontent.com/73791189/107987478-6433e200-6fce-11eb-97be-f583782ade59.png" width="500">
 
