@@ -51,4 +51,5 @@ Our goal is to build a website [HYF](https://hackyourfuture.be/) together. It's 
 ## Screenshots
 
 Screenshot from the original website:
+![1613418118134](https://user-images.githubusercontent.com/73791189/107987478-6433e200-6fce-11eb-97be-f583782ade59.png)
 
