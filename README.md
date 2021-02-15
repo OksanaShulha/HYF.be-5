@@ -2,8 +2,6 @@
 
 ## Table of contents
 
-- [HYF.be-5](#hyfbe-5)
-  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Goals](#goals)
   - [Stages](#stages)
