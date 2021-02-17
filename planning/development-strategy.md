@@ -1,16 +1,15 @@
 > You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
 
-# All About Trees
+# Hack Your Future website
 
-A simple little website about trees.
-
+We are going to recreate HackYourFuture.be
 ---
 
 ## Wireframe
 
 > [diagram source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
 
-![wireframe](./wireframe.svg)
+![wireframe](images/HYF%20website.png)
 
 ---
 
