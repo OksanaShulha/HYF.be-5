@@ -2,14 +2,13 @@
 
 # Hack Your Future website
 
-We are going to recreate HackYourFuture.be
----
+## We are going to recreate HackYourFuture.be
 
 ## Wireframe
 
 > [diagram source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
 
-![wireframe](images/HYF%20website.png)
+![wireframe](/planning/hyf-wireframe.png)
 
 ---
 
@@ -52,7 +51,7 @@ We are going to recreate HackYourFuture.be
 
 ---
 
-## Other pages  (_milestone_)
+## Other pages (_milestone_)
 
 ### HTML (_label_)
 
@@ -63,7 +62,7 @@ We are going to recreate HackYourFuture.be
   - [ ] the "about" class
   - [ ] the "faq" class
   - [ ] the "support us" class
-  
+
 ### CSS (_label_)
 
 - "the program" class (_issue_)
@@ -121,6 +120,3 @@ We are going to recreate HackYourFuture.be
 - the "top-divider" class (_issue_)
 
 ---
-
-
- 
