@@ -23,7 +23,7 @@
 
 ### CSS (_label_)
 
-- - btn blue color
+- btn "apply now" blue color with white text
 - "centered" class (_issue_)
   - [ ] centers an element horizontally along the page (along Header)
 
