@@ -18,7 +18,7 @@
 
 - Logo (in the header of the document) (_issue_)
 - Nav menu (_issue_)
-- Btn
+- Btn "Apply now"
   - [ ] uses a class "centered" (_issue checklist_)
 
 ### CSS (_label_)
