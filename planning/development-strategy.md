@@ -16,39 +16,135 @@
 
 ### HTML (_label_)
 
-- Logo (in the header of the document) (_issue_)
+- Logo (_issue_)
+  - [ ] interactive element
+  - [ ] has link to home page
 - Nav menu (_issue_)
-- Btn "Apply now"
-  - [ ] uses a class "centered" (_issue checklist_)
+  - [ ] a navbar of site content links, clearly divided from the rest of the page
+- Btn "Apply now" (_issue_)
+  - [ ] has link to aplication form
 
 ### CSS (_label_)
 
-- btn "apply now" blue color with white text
-- "centered" class (_issue_)
-  - [ ] centers an element horizontally along the page (along Header)
+- Logo (_issue_)
+  - [ ] placed an element from the right side
+- Nav menu (_issue_)
+  - [ ] placed an element from the right side before btn "apply now"
+- Btn "Apply Now" (_issue_)
+  - [ ] interactive element 
+  - [ ] blue btn with white text
+  - [ ] placed an element from the right side
 
 ---
 
-## Our program (_milestone_)
+## Program (_milestone_)
 
 ### HTML (_label_)
 
-- Main img
-- A section with some fascinating words (_issue_)
-  - [ ] uses a "fascinating-words" class
-  - [ ] is a section element
-- Paragraf with title (_issue_)
-- Img (_issue_)
-- Impact
-  - [ ] title and subtitle
-  - [ ] is a section with 3 blocks
+- Title h1 and img (_issue_)
+  - [ ]  used a class "fascinating-words" 
+  - [ ]  img
+- Two blocks with prorram info (issue)
+  - [ ] First block: Title h2, paragraph and btn "Learn more" 
+        - [ ] btn has a link
+  - [ ] Second block: img
 
 ### CSS (_label_)
 
-- the "fascinating-words" class (_issue_)
-- "paragraf with title" from the left side
-- "img" from the right side
-- "impact" is centred
+- Title h1 and img (_issue_)
+  - [ ] height and width 100%
+  - [ ] placed in the center
+  - [ ] h1: font-size 64px
+- Title h2, paragraph and btn "Learn more" (issue)
+  - [ ] block from the left side
+  - [ ] p: font-size 16px
+  - [ ] interactive btn
+  - [ ] h2: font-size 24px
+- Img block from the right side
+ 
+ ---
+ 
+ ## Impact (_milestone_)
+
+### HTML (_label_)
+
+- Title h2 and paragraph (_issue_)
+  - [ ]  used a class "fascinating-words" 
+- Three blocks with impact info (issue)
+  - [ ] Title h3 (nambers) and paragraph 
+
+### CSS (_label_)
+
+- Title h2 and paragraf (_issue_)
+  - [ ]  centred gorizontaly along the page
+  - [ ]  p: font-size 16px
+  - [ ]  h2: font-size 24px
+- Three blocks with impact info (issue)
+  - [ ] Title h3 and p aligned to the left side of the block
+  - [ ] p: font-size 16px
+  - [ ] h3: font-size 20px
+
+---
+ 
+ ## Values (_milestone_)
+
+### HTML (_label_)
+
+- Title h2 (_issue_)
+  - [ ]  uses a class "fascinating-words" 
+- Four blocks with core values info (issue)
+  - [ ] Icons 
+  - [ ] Title h3
+  - [ ] Paragraph
+ 
+ 
+
+### CSS (_label_)
+
+- Title h2 (_issue_)
+  - [ ]  aligned to the left side of the block
+  - [ ]  h2: font-size 24px
+- Four blocks with core values info (issue)
+  - [ ] Icons aligned to the left side of the block
+  - [ ] Title h3 aligned to the left side of the block
+  - [ ] h3: font-size 20px
+  - [ ] Paragraf aligned to the left side of the block
+  - [ ] p: font-size 16px
+
+---
+
+ ## Supporting (_milestone_)
+
+### HTML (_label_)
+
+- Two blocks with supporting info (issue)
+  - [ ] First block: Title h2 and paragraph
+  - [ ] Second block: donation form
+
+### CSS (_label_)
+
+- Two blocks with supporting info (issue)
+  - [ ] First block: Title h2 and paragraf
+        - [ ] block from the left side
+        - [ ] h2: font-size 24px
+        - [ ] p: font-size 16px
+  - [ ] Second block: donation form
+        - [ ] from the right side
+
+--- 
+
+## Footer (_milestone_)
+
+### HTML (_label_)
+
+- A separated footer with some contact links (_issue_)
+  - [ ] contact info
+  - [ ] social networks links
+
+### CSS (_label_)
+
+- A separated footer with some contact links (_issue_)
+  - [ ] placed in the center
 
 ---
 
@@ -74,50 +170,3 @@
 
 ---
 
-## Main Text (_milestone_)
-
-### HTML (_label_)
-
-- An article filled with wonder and interesting things (_issue_)
-  - [ ] uses and "interesting-things" class
-
-### CSS (_label_)
-
-- the "interesting-things" class (_issue_)
-
----
-
-## Site Navigation (_milestone_)
-
-### HTML (_label_)
-
-- A navbar of site content links, clearly divided from the rest of the page (_issue_)
-  - [ ] uses a "spaced-items" class
-  - [ ] uses a "bottom-divider" class
-- id's on all the site content containers (_issue_)
-  - [ ] "summary-info"
-  - [ ] "main-info"
-  - [ ] "extra-info"
-
-### CSS (_label_)
-
-- the "spaced-items" class (_issue_)
-- the "bottom-divider" class (_issue_)
-
----
-
-## Contact Info (_milestone_)
-
-**As a site visitor, I want to know how I can contact the author so that I can make a new friend**
-
-### HTML (_label_)
-
-- A separated footer with some contact links (_issue_)
-  - [ ] uses the "spaced-items" class
-  - [ ] uses the "top-divider" class
-
-### CSS (_label_)
-
-- the "top-divider" class (_issue_)
-
----
