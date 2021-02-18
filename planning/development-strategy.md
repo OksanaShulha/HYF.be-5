@@ -42,10 +42,10 @@
 ### HTML (_label_)
 
 - Title h1 and img (_issue_)
-  - [ ]  used a "fascinating-words" 
+  - [ ]  used a class "fascinating-words" 
   - [ ]  img
 - Two blocks with prorram info (issue)
-  - [ ] Firdt block: Title h2, paragraf and btn "Learn more" 
+  - [ ] First block: Title h2, paragraph and btn "Learn more" 
         - [ ] btn has a link
   - [ ] Second block: img
 
@@ -55,7 +55,7 @@
   - [ ] height and width 100%
   - [ ] placed in the center
   - [ ] h1: font-size 64px
-- Title h2, paragraf and btn "Learn more" (issue)
+- Title h2, paragraph and btn "Learn more" (issue)
   - [ ] block from the left side
   - [ ] p: font-size 16px
   - [ ] interactive btn
@@ -68,10 +68,10 @@
 
 ### HTML (_label_)
 
-- Title h2 and paragraf (_issue_)
-  - [ ]  used a "fascinating-words" 
+- Title h2 and paragraph (_issue_)
+  - [ ]  used a class "fascinating-words" 
 - Three blocks with impact info (issue)
-  - [ ] Title h3 (nambers) and paragraf 
+  - [ ] Title h3 (nambers) and paragraph 
 
 ### CSS (_label_)
 
@@ -91,11 +91,11 @@
 ### HTML (_label_)
 
 - Title h2 (_issue_)
-  - [ ]  uses a "fascinating-words" 
+  - [ ]  uses a class "fascinating-words" 
 - Four blocks with core values info (issue)
   - [ ] Icons 
   - [ ] Title h3
-  - [ ] Paragraf
+  - [ ] Paragraph
  
  
 
@@ -118,7 +118,7 @@
 ### HTML (_label_)
 
 - Two blocks with supporting info (issue)
-  - [ ] First block: Title h2 and paragraf
+  - [ ] First block: Title h2 and paragraph
   - [ ] Second block: donation form
 
 ### CSS (_label_)
@@ -139,7 +139,7 @@
 
 - A separated footer with some contact links (_issue_)
   - [ ] contact info
-  - [ ] social links
+  - [ ] social networks links
 
 ### CSS (_label_)
 
