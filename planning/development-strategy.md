@@ -54,12 +54,12 @@
 - Title h1 and img (_issue_)
   - [ ] height and width 100%
   - [ ] placed in the center
-  - [ ] h1: 64px
+  - [ ] h1: font-size 64px
 - Title h2, paragraf and btn "Learn more" (issue)
   - [ ] block from the left side
-  - [ ]  paragraf 16px
+  - [ ] p: font-size 16px
   - [ ] interactive btn
-  - [ ] h2: 24px
+  - [ ] h2: font-size 24px
 - Img block from the right side
  
  ---
@@ -77,12 +77,12 @@
 
 - Title h2 and paragraf (_issue_)
   - [ ]  centred gorizontaly along the page
-  - [ ]  paragraf 16px
-  - [ ]  h2: 24px
+  - [ ]  p: font-size 16px
+  - [ ]  h2: font-size 24px
 - Three blocks with impact info (issue)
   - [ ] Title h3 and p aligned to the left side of the block
-  - [ ] paragraf 16px
-  - [ ] h3: 20px
+  - [ ] p: font-size 16px
+  - [ ] h3: font-size 20px
 
 ---
  
@@ -103,11 +103,13 @@
 
 - Title h2 (_issue_)
   - [ ]  aligned to the left side of the block
-  - [ ]  h2: 24px
+  - [ ]  h2: font-size 24px
 - Four blocks with core values info (issue)
   - [ ] Icons aligned to the left side of the block
-  - [ ] Title h3: 20px aligned to the left side of the block
-  - [ ] Paragraf 16px aligned to the left side of the block
+  - [ ] Title h3 aligned to the left side of the block
+  - [ ] h3: font-size 20px
+  - [ ] Paragraf aligned to the left side of the block
+  - [ ] p: font-size 16px
 
 ---
 
@@ -122,9 +124,10 @@
 ### CSS (_label_)
 
 - Two blocks with supporting info (issue)
-  - [ ] First block: Title h2:24px and paragraf
-        - [ ] from the left side
-        - [ ] p 16px
+  - [ ] First block: Title h2 and paragraf
+        - [ ] block from the left side
+        - [ ] h2: font-size 24px
+        - [ ] p: font-size 16px
   - [ ] Second block: donation form
         - [ ] from the right side
 
