@@ -22,9 +22,9 @@ Our goal is to build a website [HYF](https://hackyourfuture.be/) together. It's 
 
 - [X] Setup
 - [X] Project Definition
-- [ ] Backlog
-- [ ] Development Strategy
-- [ ] Project Board
+- [X] Backlog
+- [X] Development Strategy
+- [X] Project Board
 - [ ] Development
 - [ ] Retrospective
 
