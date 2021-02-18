@@ -122,6 +122,7 @@
 - Block with donation form (issue)
   - [ ] inputs
   - [ ] Btn "Donate"
+ 
 ### CSS (_label_)
 
 - Block with supporting info (issue)
@@ -129,7 +130,7 @@
   - [ ] h2: font-size 24px
   - [ ] p: font-size 16px
   - [ ] р2 and p are aligned on the left side of the block
- - Block with donation form (issue)
+- Block with donation form (issue)
   - [ ] from the right side of the page
 
 --- 
