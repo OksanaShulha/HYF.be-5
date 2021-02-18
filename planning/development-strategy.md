@@ -117,19 +117,20 @@
 
 ### HTML (_label_)
 
-- Two blocks with supporting info (issue)
-  - [ ] First block: Title h2 and paragraph
-  - [ ] Second block: donation form
-
+- Block with supporting info (issue)
+  - [ ] Title h2 and paragraph
+- Block with donation form (issue)
+  - [ ] inputs
+  - [ ] Btn "Donate"
 ### CSS (_label_)
 
-- Two blocks with supporting info (issue)
-  - [ ] First block: Title h2 and paragraf
-        - [ ] block from the left side
-        - [ ] h2: font-size 24px
-        - [ ] p: font-size 16px
-  - [ ] Second block: donation form
-        - [ ] from the right side
+- Block with supporting info (issue)
+  - [ ] block from the left side of the page
+  - [ ] h2: font-size 24px
+  - [ ] p: font-size 16px
+  - [ ] р2 and p are aligned on the left side of the block
+ - Block with donation form (issue)
+  - [ ] from the right side of the page
 
 --- 
 
