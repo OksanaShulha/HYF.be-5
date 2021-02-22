@@ -73,7 +73,6 @@ a:hover {
   height: 383.500px;
   background: url(../images/Main\ picture.jpg) center no-repeat;
 }
-
 .niceWords {
   width: 800px;
   height: 153.6px;
@@ -83,18 +82,19 @@ a:hover {
   margin: auto;
   padding: 150px;
 }
-.progPick {
-  width: 641px;
-  height: 400px;
-  background: url(../images/our-program.jpg);
-  
-}
-
 h1 {
   color: white;
   font-size: 170px;
 }
 
+.progPick {
+  width: 590px;
+  height: 400px;
+  background: url(../images/our-program.jpg) center;
+  float: right;
+  margin: 120px 100px 120px 120px;
+  
+}
 h2 {
   font-family: "Work Sans", sans-serif;
   color: rgb(28, 34, 148);
@@ -159,9 +159,6 @@ h2 {
   color: white;
   margin: 0;
 }
-
-
-
 
 .values {
   display: flex;
