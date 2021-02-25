@@ -359,11 +359,46 @@ h2 {
   position: static;
 }
 
+.divSupForm {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
 .supForm {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 50%;
+  font-family: "Work Sans", sans-serif;
+}
+
+.ulAmount {
+  display: flex;
+  margin: 20px 0px;
+  list-style: none;
+}
+
+.liAmount {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: rgb(28, 34, 148);
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: white;
+  font-family: "Work Sans", sans-serif;
+}
+
+.liAmount:hover {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
   font-family: "Work Sans", sans-serif;
 }
 
@@ -385,4 +420,9 @@ input.radio {
   float: left;
   clear: none;
   margin: 2px 0 0 2px;
+}
+
+.ammount {
+  display: flex;
+  flex-direction: column;
 }
