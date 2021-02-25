@@ -344,11 +344,19 @@ h2 {
   justify-content: center;
   width: 100%;
   max-width: 1280px;
-  padding: 50px 20px;
+
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+
   position: relative;
   justify-content: center;
   width: 100%;
-  padding-right: 50px;
+
+  background: rgb(248, 249, 252);
+  z-index: 1;
+  flex: 0 0 auto;
 }
 
 .supText {
@@ -425,4 +433,33 @@ input.radio {
 .ammount {
   display: flex;
   flex-direction: column;
+}
+
+.inSup {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-image: initial;
+  border-bottom: 1px solid rgb(28, 34, 148);
+  margin: 20px 0px;
+  font-size: 18px;
+  padding: 5px;
+  box-sizing: border-box;
+  color: rgb(28, 34, 148);
+  background-color: transparent;
+  outline: none;
+}
+
+.labSup {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
 }
