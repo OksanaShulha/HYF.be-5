@@ -337,3 +337,51 @@ h2 {
   word-break: break-word;
   font-weight: 300;
 }
+
+.Support {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+
+  flex-direction: column;
+}
+
+.supText {
+  display: inline-block;
+  width: 50%;
+  padding-right: 80px;
+  z-index: 0;
+  position: static;
+}
+
+.supForm {
+  display: inline-block;
+  width: 50%;
+  font-family: "Work Sans", sans-serif;
+}
+
+.divRadio {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+label {
+  float: left;
+  clear: none;
+  display: block;
+  padding: 0px 1em 0px 8px;
+}
+
+input[type="radio"],
+input.radio {
+  float: left;
+  clear: none;
+  margin: 2px 0 0 2px;
+}
