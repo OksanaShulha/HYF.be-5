@@ -6,6 +6,7 @@ body {
   line-height: 160%;
   word-break: break-word;
   margin: 0%;
+  overflow-x: hidden;
 }
 
 section.wrapper {
@@ -337,6 +338,163 @@ h2 {
   word-break: break-word;
   font-weight: 300;
 }
+
+.Support {
+  display: flex;
+  width: 100%;
+  max-width: 1280px;
+
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+
+  position: relative;
+
+  background: rgb(248, 249, 252);
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.supTextDiv {
+  display: flex;
+  flex-direction: column;
+  padding-right: 80px;
+}
+
+.supText {
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: 450px;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.pSupport {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.supForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Work Sans", sans-serif;
+}
+
+.ulAmount {
+  display: flex;
+  margin: 20px 0px;
+  list-style: none;
+  padding: 0px;
+}
+
+.liAmount {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: rgb(28, 34, 148);
+  padding: 15px 20px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: white;
+  font-family: "Work Sans", sans-serif;
+}
+
+.liAmount:hover {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
+  font-family: "Work Sans", sans-serif;
+}
+
+.liAmount:focus {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
+  font-family: "Work Sans", sans-serif;
+}
+
+.divRadio {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.labSup1 {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+input[type="radio"],
+input.radio {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.ammount {
+  display: flex;
+  flex-direction: column;
+}
+
+.inSup {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-image: initial;
+  border-bottom: 1px solid rgb(28, 34, 148);
+  margin: 20px 0px;
+  font-size: 18px;
+  padding: 5px;
+  box-sizing: border-box;
+  color: rgb(28, 34, 148);
+  background-color: transparent;
+  outline: none;
+}
+
+.labSup {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
 /* here is all about footer*/
 .footerT {
   font-size: 24px;
