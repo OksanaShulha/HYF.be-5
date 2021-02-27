@@ -1,0 +1,79 @@
+body{
+    padding: 20;
+    text-align: left;
+    background-color: #4A50BB;
+    background-size: cover;
+    background-position: left;
+    font-family: sans-serif;  
+}
+
+.contact-title{
+    margin-top: 20px;
+    color: #fff;
+    text-transform: none;
+}
+
+.contact-title h1{
+    font-size: 28px;
+    line-height: 140%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    max-width: none;
+}
+
+.contact-title h2{
+    color: white;
+    text-align: left;
+    max-width: 550px;
+    line-height: 160%;
+    font-size: 20px;
+    font-family: "Space Mono", monospace;
+    margin-bottom:20px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-weight: 300;
+}
+
+.contact-form h4{
+    color: white;
+}
+
+form{
+    margin-top: 0px;
+}
+
+.form-control{
+    border: 1px solid white;
+    border-radius: 3px;
+    outline: none;
+    background-color: transparent;
+    padding: 20px 20px 20px 20px;
+    color: white;
+    width: 80%;
+}
+
+input{
+    height: 45px;
+}
+
+.button{
+    display: inline-flex;
+    font-size: 12px;
+    line-height: 160%;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    color: rgb(45, 48, 55);
+    font-weight: 600;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: "Work Sans", sans-serif;
+    width: 80px;
+}
