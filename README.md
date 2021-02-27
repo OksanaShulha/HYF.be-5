@@ -25,8 +25,8 @@ Our goal is to build a website [HYF](https://hackyourfuture.be/) together. It's 
 - [X] Backlog
 - [X] Development Strategy
 - [X] Project Board
-- [ ] Development
-- [ ] Retrospective
+- [X] Development
+- [X] Retrospective
 
 ## Technologies
 
