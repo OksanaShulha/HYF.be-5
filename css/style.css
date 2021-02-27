@@ -197,7 +197,7 @@ h2 {
   align-items: flex-start;
 }
 
-.community > img {
+.community>img {
   margin-bottom: 20px;
   min-height: 70px;
   object-fit: contain;
@@ -235,7 +235,7 @@ h2 {
   align-items: flex-start;
 }
 
-.diversity > img {
+.diversity>img {
   margin-bottom: 20px;
   min-height: 70px;
   object-fit: contain;
@@ -272,7 +272,7 @@ h2 {
   align-items: flex-start;
 }
 
-.commitment > img {
+.commitment>img {
   margin-bottom: 20px;
   min-height: 70px;
   object-fit: contain;
@@ -309,7 +309,7 @@ h2 {
   align-items: flex-start;
 }
 
-.open > img {
+.open>img {
   margin-bottom: 20px;
   min-height: 70px;
   object-fit: contain;
@@ -507,6 +507,7 @@ input.radio {
   text-align: center;
   max-width: none;
 }
+
 .footerP {
   color: rgb(45, 48, 55);
   text-align: center;
@@ -519,6 +520,7 @@ input.radio {
   word-break: break-word;
   font-weight: 300;
 }
+
 footer {
   display: flex;
   flex-direction: column;
@@ -526,6 +528,7 @@ footer {
   justify-content: center;
   margin-bottom: 40px;
 }
+
 .footerE {
   color: rgb(45, 48, 55);
   text-align: center;
@@ -538,5 +541,19 @@ footer {
   word-break: break-word;
   font-weight: 300;
   margin-bottom: 0;
+  text-decoration: none;
+}
+
+.social {
+  margin: 20px 0px;
+}
+
+.social__link {
+  width: 26px;
+  height: 26px;
+  text-decoration: none;
+}
+
+.social__link:hover {
   text-decoration: none;
 }
